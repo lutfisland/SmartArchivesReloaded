@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/example/public_html/
+    - export DEPLOYPATH=/home/journ472/repositories/SmartArchivesReloaded/
     - /bin/cp -R images $DEPLOYPATH
